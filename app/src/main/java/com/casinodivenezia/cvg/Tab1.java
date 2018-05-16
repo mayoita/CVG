@@ -11,7 +11,7 @@ import android.widget.TextView;
 
 public class Tab1 extends Fragment{
     private static final String TAG = "Tab1Fragment";
-    String[] Names = {"Massimo", "Moro"};
+    String[] Names = {"Massimo", "Moro","Marco"};
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
