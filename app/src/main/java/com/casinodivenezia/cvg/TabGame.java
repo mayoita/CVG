@@ -26,7 +26,7 @@ import java.util.Locale;
 
 public class TabGame extends Fragment   {
 
-    // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
+    // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER aaa
     private static final String ARG_PARAM1 = "title";
     private ListView listView;
     private GamesAdapter mAdapter;
