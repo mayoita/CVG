@@ -1,0 +1,102 @@
+{
+  "project_info": {
+    "project_number": "250228474323",
+    "firebase_url": "https://cmv-gioco.firebaseio.com",
+    "project_id": "cmv-gioco",
+    "storage_bucket": "cmv-gioco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250228474323:android:85de799d59b47527",
+        "android_client_info": {
+          "package_name": "com.casinodivenezia.cvg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250228474323-c4gh8vbvs2ll3qog14t7cc6ag008v8sf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.casinodivenezia.cvg",
+            "certificate_hash": "98bf60639a9e4724477a4a75f85846ddafb2da83"
+          }
+        },
+        {
+          "client_id": "250228474323-o54ppf2dhg4n6c0sjvjbuekqeoarhc76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIedWSpNYDXTiLZa3zXlNeR4qHyVz4ekc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250228474323-g3uetddrh77315psietfktghj6o42u24.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "it.casinovenezia.Casino--di-Venezia",
+                "app_store_id": "931216720"
+              }
+            },
+            {
+              "client_id": "250228474323-o54ppf2dhg4n6c0sjvjbuekqeoarhc76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250228474323:android:d4d7404e2e4fdcae",
+        "android_client_info": {
+          "package_name": "it.casinovenezia.casinodivenezia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250228474323-f71au4ojbkou4t6vqd65sdnr7cu90ues.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.casinovenezia.casinodivenezia",
+            "certificate_hash": "cc0897da5e7c903eb9c7c330d6031db25ffe0033"
+          }
+        },
+        {
+          "client_id": "250228474323-o54ppf2dhg4n6c0sjvjbuekqeoarhc76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIedWSpNYDXTiLZa3zXlNeR4qHyVz4ekc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -5,4 +5,284 @@
     <string name="tab_text_3">Tab 3</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="cavendramin">CÀ VENDRAMIN CALERGI</string>
+    <string name="apertodalle">OPEN FROM xx:x TO xx:xx</string>
+    <string name="jackpotamount">x.xxx.xxx,xx €</string>
+    <string name="jackpot">JACKPOT</string>
+    <string name="link">UNDER 18 ARE NOT ALLOWED TO GAMBLE. GAMBLING CAN BE PATHOLOGICALLY ADDICTIVE.<a href="http://www.casinovenezia.it/en/probability-winning.html">GO TO PROBABILITY OF WINNING</a></string>
+    <string name="action_change"></string>
+    <string name="home_label">HOME</string>
+    <string name="events_label">EVENTS</string>
+    <string name="casino_label">CASINÒ</string>
+    <string name="poker_label">POKER</string>
+    <string name="tournament_label">TOURNAMENTS</string>
+    <string name="restaurant_label">RESTAURANT</string>
+    <string name="map_label">MAP</string>
+    <string name="condividiSu">Condividi su</string>
+    <string name="condividiTesto">condividi</string>
+    <string-array name="nav_drawer_items">
+        <item>HOME</item>
+        <item>LOG IN</item>
+        <item>NEWSLETTER</item>
+        <item>TIMETABLES</item>
+        <item>CASINÒ MOBILE</item>
+        <item>MY SUBSCRIPTION</item>
+        <item>CLICK "LIKE" ON FACEBOOK</item>
+        <item>PROMOTIONS</item>
+        <item></item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="desc_list_item_icon">Item Icon</string>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/home</item>
+        <item>@drawable/login</item>
+        <item>@drawable/newsletter</item>
+        <item>@drawable/timetables</item>
+        <item>@drawable/mobile</item>
+        <item>@drawable/subscription</item>
+        <item>@drawable/like</item>
+        <item>@drawable/homeempty</item>
+        <item>@drawable/promo</item>
+    </array>
+
+    <string name="please">PLEASE LOGIN OR SIGN UP</string>
+    <string name="loginsignup">LOG IN / SIGN UP</string>
+    <string name="newsletter">NEWSLETTER</string>
+    <string name="email_nl">EMAIL</string>
+    <string name="name_nl">NAME</string>
+    <string name="surname_nl">SURNAME</string>
+    <string name="willing">Yes, I am willing to receive the Venice Casino Newsletter at the address shown above.</string>
+    <string name="confirm">I confirm that I am 18 years of age or older.</string>
+    <string name="allow">To allow the requested service, I consent to the processing of my personal data in accordance with Legislative Decree 196/2003.</string>
+    <string name="unsubscribe">UNSUBSCRIBE</string>
+    <string name="subscribe">SUBSCRIBE</string>
+    <string name="click">LIKE US ON FACEBOOK AND GET YOUR FREE ENTRY!</string>
+    <string name="ingresso">ENTRY ALLOWED TO ADULTS OVER THE AGE OF EIGHTEEN. ONLY ON PRESENTATION OF A VALID PHOTO IDENTITY CARD.</string>
+    <string name="facebook">YOUR FREE ENTRY</string>
+    <string name="mysubscription">MY SUBSCRIPTION</string>
+    <string name="eventsnew">EVENTS NEWS</string>
+    <string name="slotnews">SLOT NEWS</string>
+    <string name="pokernews">POKER NEWS</string>
+    <string name="title_activity_event_details">Event</string>
+    <string name="lore">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+        ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+        aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="table_games">TABLE GAMES</string>
+    <string name="slot_games">ELETRONIC GAMES</string>
+    <string name="online_games">ONLINE GAMES</string>
+    <string name="fair">FAIR ROULETTE</string>
+    <string name="black">BLACK JACK</string>
+    <string name="texas">TEXAS HOLD\'EM POKER</string>
+    <string name="punto">PUNTO BANCO</string>
+    <string name="carribean">CARRIBEAN STUD POKER</string>
+    <string name="francese">FRENCH ROULETTE</string>
+    <string name="chemin">CHEMIN DE FER</string>
+    <string name="trente">MIDI TRENTE ET QUARANTE</string>
+    <string name="what">WHAT WE OFFER</string>
+    <string name="whatnew">WHAT\'S NEW</string>
+    <string name="rooms">SLOT MACHINE ROOMS</string>
+    <string name="jackpot_slot">OUR JACKPOTS</string>
+    <string name="title_activity_game_item">GAME</string>
+    <string name="close_rule">CLOSE</string>
+    <string name="title_activity_slot_details">SLOT</string>
+    <string name="text_for_game_general">Experiencing the pleasure of gambling and of the challenge in a refined and intriguing location. This is what the Casinò di Venezia’s two venues have to offer, each complete, but with their own unique character.\n\nAnd you can play online from your own home.</string>
+    <string name="title_activity_poker_item">POKER</string>
+    <string name="text_for_game_general_poker">The Casinò di Venezia provides opportunities for taking part in national and international competitions.\nThe venue at Ca\' Vendramin Calergi, for example,
+        stages the Italian Chemin de Fer Championships (12 rounds a year), the prize winning contests of Chemin de Fer (6 galas a year) and French Roulette tournaments (5 matches a year).\n\nCa\' Noghera, on the other hand,
+        stages Texas Hold \’em Poker tournaments every day with online qualifications.\nIn both venues, moreover, it is possible to take part in the Texas Hold \’em Poker international championships that take place regularly at least once a month.</string>
+    <string name="torneo">TORNEO</string>
+    <string name="ora">Ora</string>
+    <string name="buy">BUY IN</string>
+    <string name="stack">STACK</string>
+    <string name="blind">BLINDS</string>
+    <string name="late">LATE</string>
+    <string name="cap">CAP</string>
+    <string name="note">NOTE</string>
+    <string name="text_for_game_general_tournament">The Casinò di Venezia provides opportunities for taking part in national and international competitions.\nThe venue at Ca\' Vendramin Calergi, for example,
+        stages the Italian Chemin de Fer Championships (12 rounds a year), the prize winning contests of Chemin de Fer (6 galas a year) and French Roulette tournaments (5 matches a year).\n\nCa\' Noghera, on the other hand,
+        stages Texas Hold \’em Poker tournaments every day with online qualifications.\nIn both venues, moreover, it is possible to take part in the Texas Hold \’em Poker international championships that take place regularly at least once a month.</string>
+    <string name="title_activity_tournament_item">TOURNAMENT</string>
+    <string name="telUno">+390415297230 (from 9.30 am - 5.30 pm)</string>
+    <string name="telDue">+390415297201 (7.30 pm - midnight)</string>
+    <string name="openingtime">Opening times:</string>
+    <string name="openingtimeTx">7.30 pm - midnight</string>
+    <string name="closed">Closed:</string>
+    <string name="closedTx">December 24 and 25</string>
+    <string name="creditCardLabel">Credit cards</string>
+    <string name="fromtoMenu">from 26 to 5 march 2015</string>
+    <string name="nome_chef">VALERIO VERGINE</string>
+    <string name="title_activity_menu">MENU</string>
+    <string name="starters">Starters</string>
+    <string name="first">First Course</string>
+    <string name="second">Second Course</string>
+    <string name="dessert">Dessert</string>
+    <string name="orari">TIMETABLES</string>
+    <string name="map">MAP</string>
+    <string name="info_map">INFO</string>
+    <string name="directions">(click on icons to get directions)</string>
+    <string name="info_text" formatted="false">With the exception of December 24 and 25 the Casinò di Venezia\’s two venues, Ca\’ Vendramin Calergi and Ca\’ Noghera are open all year round.\n
+        Access to the Casinò di Venezia\’s games rooms is restricted to adults only who are in possession of a valid ID document:\n\nacceptable forms of identification include either an ID Card,
+        a driving licence or a passport.\n\n€5.00 Admission Card (services excluded);\n€10.00 Admission Card: a €10 admission.\n\nThe €10.00 Admission Card includes services:\n-
+        The gift of a non convertible chip or ez-pay ticket worth € 10.00 for use at the gaming tables or on the slot machines;\n- cloakroom;\n- parking (at Ca\' Noghera it\'s free of charge;
+        in Venice there is a 50% discount at the ASM and Garage San Marco from Monday to Friday, but Sundays, public holidays and the day before these are excluded);\n- road shuttle service:
+        Casinò di Ca\' Noghera - Venice Piazzale Roma and vice versa;\n- road shuttle service: Mestre Railway Station –Ca\’ Noghera Casino and vice versa;\n-
+        waterways shuttle service: Piazzale Roma - Ca\' Vendramin Calergi and vice versa.\n\nIf you are staying in a hotel in Venice why not ask for a Free Entry Coupon.\n\n
+        There\’s a gift waiting for everyone who comes to gamble at the Casino on their birthday.\n\nThere are lots of different promotions and special occasions every month for organising a
+        visit to our two venues. Gifts from the Casinò di Venezia\’s own branded collections. An offer of drinks &amp; snacks, gambling benefits with slot machine tickets or gaming table chips,
+        free.\nFind out about the promotion of the month.\n\n\nMETHODS OF PAYMENT\n\nFor the purchase of means of gambling, we accept:\n- payment in Italian or foreign currency, up to the maximum
+        limit prescribed by current legislation (during the gambling at tables opening times)\n- payment with the following forms of credit cards: Pagobancomat Cash card; Visa; MasterCard, Maestro,
+        China Union Pay.\nPayment of gambling credits or winnings can be made in cash, within the limits prescribed by law, with non-transferable cheques made payable to the client or in the form
+        of a means of gambling.\n\nEach of the Casinò di Venezia\’s venues has cashier and POS/credit card and cash card banking service points.\n\nThe use of cash\nLegislative Decree No. 201 of
+        December 06 2013, published in the Official Gazette (No. 284 of December 06 2011) placed a limit on the use of ready cash for any transactions. As a result of this, therefore,
+        the transfer of cash to and from clients within the gaming house can only be for amounts of less than €1000.00.</string>
+    <string name="info_titolo">WAYS OF GAINING ADMISSION TO THE CASINO</string>
+    <string name="info_activiy_text">INFO</string>
+    <string name="title_activity_sign_up">Sign Up/Log In</string>
+    <string name="title_activity_login">Log in</string>
+    <string name="title_activity_signup">Sign up</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password_again">Password Again</string>
+    <string name="error_intro">"Please "</string>
+    <string name="error_blank_name">enter a name</string>
+    <string name="error_blank_surname">enter a surname</string>
+    <string name="error_blank_username">enter an email</string>
+    <string name="error_blank_password">enter a password</string>
+    <string name="error_mismatched_passwords">enter the same password twice</string>
+    <string name="error_join">", and "</string>
+    <string name="error_end">.</string>
+    <string name="progress_login">Logging you in&#8230;</string>
+    <string name="progress_signup">Signing you up&#8230;</string>
+    <string name="signup">Sign Up</string>
+    <string name="forgot">FORGOT ?</string>
+    <string name="you_can">YOU CAN LOG IN WITH</string>
+    <string name="parse_app_id">yO3MBzW9liNCaiAfXWGb3NtZJ3VhXyy4Zh8rR5ck</string>
+    <string name="parse_client_key">KImYuYCrJ9j3IbDI3W2KtDXCXwmfqsRDCn5Em6A9</string>
+    <string name="facebook_app_id">724548800932026</string>
+    <string-array name="my_facebook_permissions">
+        <item>public_profile</item>
+        <item>email</item>
+    </string-array>
+    <string name="profile_title_logged_in">Your are logged in as</string>
+    <string name="profile_logout_button_label">Log out</string>
+    <string name="profile_title_logged_out">You must be logged in to view your profile</string>
+    <string name="profile_login_button_label">Log in</string>
+    <string name="myEmail">EMAIL</string>
+    <string name="welcome">WELCOME</string>
+    <string name="dont_have">DON\'T HAVE AN ACCOUNT YET?</string>
+    <string name="login">LOG IN</string>
+    <string name="todayIsClosed">Today is closed</string>
+    <string name="todayOpen">Today open 11:00 am - 3:15 am</string>
+    <string name="todayOpenVenice">Today open 11:00 am - 02:45 am</string>
+    <string name="canogheratime1">Today open 11:00 am - 03:45 am</string>
+    <string name="canogheratime2">Today open 11:00 am - 03:15 am</string>
+    <string name="veneziatime1">Today open 11.00 am - 03.15 am</string>
+    <string name="veneziatime2">Today open 11:00 am - 02:45 am</string>
+    <string name="text_for_event_general">Live music, concerts, disco club, performances, entertainment, bar area and refreshments ranging from Happy Hours to gala dinners.\n\nA mix of games and entertainment for special evenings of fun devoted to teaching the game.</string>
+    <string name="lore_news">Our offering is under constant evolution to guarantee the best in modern technology, in our constant desire to offer the best customer satisfaction.</string>
+    <string name="wagner_restaurant">WAGNER RESTAURANT</string>
+    <string name="marcopolo_restaurant">MARCO POLO RESTAURANT</string>
+    <string name="wagner_details">Dedicated to the great composer who lived in Venice in the historical
+        palazzo that today houses the city\'s casino, this restaurant is a unique privilege for visitors to
+        the gaming house. Situated on the first floor of Ca\' Vendramin Calergi, the Wagner Restaurant offers
+        the exclusive pleasure of refined dining. 150 places in 3 superb settings, the Sala Palma,
+        Sala Gialla and Sala Rossa, splendidly decorated with paintings by Palma il Giovane and frescoes
+        by Gian Battista Crosato. Timeless delicacies and traditional Venetian fish specialities.
+        Special events and music by the great composers are an added treat for our guests.
+        The kitchen is open between 7.30 pm and 11.30 pm.</string>
+    <string name="marcopolo_details">Ideal for a meal, even a quick one, it offers a creatively
+        trendy cuisine that includes Mediterranean and Venetian meat and fish dishes, in a
+        sophisticated and glamorous setting. The kitchen is open between 7.00 pm and 11.30 pm.
+        View information on the St. Valentine\'s Day dinner at the Il Milione restaurant.\n\nLA
+        PROSCIUTTERIA\n\nProducts of the highest quality and selected wines for a meal break in
+        pursuit of good taste.\n\nLA PIZZERIA\nThe wood oven produces fanciful, smouldering delicacies
+        to suit all tastes.</string>
+    <string name="fromMestre">FROM MESTRE</string>
+    <string name="fromCaNoghera">FROM CA\' NOGHERA</string>
+    <string name="titoloServices">EVERY DAY</string>
+    <string name="action_boat">FREE BOAT</string>
+    <string name="action_bus">MESTRE - CA\'NOGHERA</string>
+    <string name="action_busV">VENEZIA - CA\'NOGHERA</string>
+    <string name="fromVenezia">FROM VENEZIA</string>
+    <string name="subTimetablesME">Free shuttle return railway station in Mestre/Ca\'Noghera</string>
+    <string name="subTimetablesVE">Free shuttle return Piazzale Roma / Ca\'Noghera</string>
+    <string name="text_for_free_boat">Free shuttle boat from Piazzale Roma\nto Ca\' Vendramin Calergi</string>
+    <string name="titoloBoat">FREE BOAT</string>
+    <string name="secondPart">From Sundays to Thursdays\nfrom 2:50 pm to 3:50 am\nevery 20 minutes</string>
+    <string name="thirdPart">On Fridays and on Saturdays\nfrom 2:50 pm to 4:50 am\nevery 10 minutes</string>
+    <string name="fourthPart">Free shuttle boat from Ca\' Vendramin Calergi\nto Piazzale Roma</string>
+    <string name="fifthPart">From Sundays to Thursdays\nfrom 3:00 pm to 4:00 am\nevery 20 minutes</string>
+    <string name="sixthPart">On Fridays and on Saturdays\nfrom 3:00 pm to 5:00 am\nevery 10 minutes</string>
+
+
+    <string name="title_activity_show_geofence_transitions">ShowGeofenceTransitionsActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- Buttons strings -->
+    <string name="add_geofences">Add geofences</string>
+    <string name="remove_geofences">Remove geofences</string>
+
+    <string name="geofences_added">Geofences added</string>
+    <string name="geofences_removed">Geofences removed</string>
+
+    <!-- Error strings -->
+    <string name="not_connected">GoogleApiClient no yet connected. Try again.</string>
+    <string name="geofence_not_available">Geofence service is not available now</string>
+    <string name="geofence_too_many_geofences">Your app has registered too many geofences</string>
+    <string name="geofence_too_many_pending_intents">
+        You have provided too many PendingIntents to the addGeofences() call
+    </string>
+    <string name="unknown_geofence_error">
+        Unknown error: the Geofence service is not available now
+    </string>
+    <string name="geofence_transition_invalid_type">
+        Geofence transition error: invalid transition type %1$d
+    </string>
+
+    <!-- Transition type strings -->
+    <string name="geofence_transition_entered">Entered</string>
+    <string name="geofence_transition_exited">Exited</string>
+    <string name="unknown_geofence_transition">Unknown Transition</string>
+
+    <string name="geofence_transition_notification_text">Click notification to return to app</string>
+    <string name="Notification.Text">You are close to the oldest Casinò in the world!</string>
+    <string name="title_activity_free_entrance">FREE ENTRY TICKET</string>
+    <string name="free_entrance_text">ENTRY ALLOWED TO ADULTS OVER THE AGE OF EIGTHEEN, ONLY ON PRESENTATION OF A VALID PHOTO IDENTITY CARD</string>
+    <string name="time_table">TIMETABLES</string>
+    <string name="contactUsText">Contact Us</string>
+    <string name="like_us">Please \"LIKE\" us on Facebook!</string>
+    <string name="offer">At our machines, minimum bets start from € 0.01 (1 Euro cent) up to €10.00 with maximum bets up to €500 a spin.</string>
+    <string name="what_new">Our offering is under constant evolution to guarantee the best in modern technology, in our constant desire to offer the best customer satisfaction.</string>
+    <string name="slot_rooms">Ca\' Noghera is Italy\’s first American-style casino: 4000 square metres of slot machines and ancillary games services.\n\nCa\' Vendramin Calergi: an offer in which state-of-the-art technology blends perfectly into a setting that is both historical and extraordinary</string>
+    <string-array name="slot_array">
+        <item>At our machines, minimum bets start from € 0.01 (1 Euro cent) up to €10.00 with maximum bets up to €500 a spin.</item>
+        <item>Our offering is under constant evolution to guarantee the best in modern technology, in our constant desire to offer the best customer satisfaction.</item>
+        <item></item>
+        <item>Ca\' Noghera is Italy\’s first American-style casino: 4000 square metres of slot machines and ancillary games services.\n\nCa\' Vendramin Calergi: an offer in which state-of-the-art technology blends perfectly into a setting that is both historical and extraordinary</item>
+    </string-array>
+    <string-array name="slot_array_title">
+        <item name="what">WHAT WE OFFER</item>
+        <item name="whatnew">WHAT\'S NEW</item>
+        <item name="jackpot_slot">OUR JACKPOTS</item>
+        <item name="rooms">SLOT MACHINE ROOMS</item>
+    </string-array>
+    <!-- Suffix after '-' must be the app package name as specified in the build.gradle file. This
+       is used by the com.amazonaws.mobile.downloader.query.DownloadQueueProvider class.
+    <string name="download_queue_provider_authority">com.amazonaws.mobile.downloader-it.casinovenezia.casinodivenezia</string> -->
+    <!-- This can be anything, but it should be unique to the app. -->
+
+    <string name="title_sign_up">Sign Up</string>
+    <string name="doveTesto">dove</string>
+    <string name="doveMappa">Mappa</string>
+    <string name="title_activity_mappa">Mappa</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="perMappa">Clicca sull\'icona per le indicazioni stradali</string>
 </resources>

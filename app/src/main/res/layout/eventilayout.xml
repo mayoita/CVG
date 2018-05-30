@@ -4,34 +4,115 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#C0AB79"
     android:id="@+id/relativeLayout">
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/imageViewEvento"
         android:adjustViewBounds="true"
         android:scaleType="fitCenter"
-        android:layout_width="wrap_content"
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_marginEnd="3dp"
         android:layout_marginStart="3dp"
         android:layout_marginTop="3dp"
+        android:src="@drawable/default_event"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/jack" />
+         />
 
     <com.casinodivenezia.cvg.VeniceRegular
-        android:id="@+id/textView"
+        android:id="@+id/TITOLO"
         android:layout_width="0dp"
         android:layout_height="25dp"
-        android:layout_marginEnd="10dp"
+        android:layout_marginEnd="55dp"
         android:layout_marginStart="5dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="8dp"
+        android:shadowColor="#424242"
+        android:shadowDx="1"
+        android:shadowRadius="3"
+        android:ellipsize="end"
+        android:maxLines="2"
         android:text="TextView"
+
+        android:textColor="#ffff"
         android:textSize="22sp"
+
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+        app:layout_constraintTop_toBottomOf="@+id/imageViewEvento" />
+
+    <ImageView
+        android:id="@+id/speak"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginTop="8dp"
+        android:visibility="gone"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewEvento"
+        app:srcCompat="@drawable/speak" />
+
+    <TextView
+        android:id="@+id/INTRO"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="8dp"
+        android:fontFamily="@font/archivo_narrow"
+        android:text="TextView"
+        android:textSize="12dp"
+        android:shadowColor="#424242"
+        android:shadowDx="1"
+        android:shadowRadius="3"
+        android:ellipsize="end"
+        android:maxLines="2"
+        android:textColor="#ffff"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/TITOLO" />
+
+    <com.casinodivenezia.paintcode.IconaDove
+        android:id="@+id/view"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/INTRO" />
+
+    <TextView
+        android:id="@+id/sedeEvento"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="TextView"
+        android:textColor="#ffff"
+        app:layout_constraintStart_toEndOf="@+id/view"
+        app:layout_constraintTop_toBottomOf="@+id/INTRO" />
+
+    <com.casinodivenezia.paintcode.IconaQuando
+        android:id="@+id/view2"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintStart_toEndOf="@+id/sedeEvento"
+        app:layout_constraintTop_toBottomOf="@+id/INTRO" />
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="TextView"
+        android:textColor="#ffff"
+        app:layout_constraintStart_toEndOf="@+id/view2"
+        app:layout_constraintTop_toBottomOf="@+id/INTRO" />
 
 
 </android.support.constraint.ConstraintLayout>

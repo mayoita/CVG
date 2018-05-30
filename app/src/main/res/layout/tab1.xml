@@ -20,11 +20,13 @@
         tools:layout_constraintTop_creator="1" />
 
     <ListView
+        android:id="@+id/eventiList"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="#C0AB79"
-        android:id="@+id/eventiList"
-        tools:layout_editor_absoluteX="8dp"
-        tools:layout_editor_absoluteY="8dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
 </android.support.constraint.ConstraintLayout>

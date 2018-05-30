@@ -1,0 +1,148 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:fillViewport="false"
+        android:layout_marginTop="3dp"
+        android:id="@+id/myScrollEvent">
+<FrameLayout
+android:id="@+id/event_details"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/imageView7"
+            android:adjustViewBounds="true"
+            android:src="@drawable/default_event"
+            android:scaleType="fitCenter"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+            android:background="@color/white" />
+
+            <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+                android:layout_below="@+id/imageView7"
+                android:layout_alignStart="@+id/imageView7">
+
+                <com.casinodivenezia.cvg.VeniceRegular
+                    android:id="@+id/textView8"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="3dp"
+                    android:text="Titolo"
+                    android:textColor="@color/white"
+                    android:textSize="22sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="3dp"
+                    android:text="Titolo"
+                    android:textColor="@color/oroChiaro"
+                    android:textSize="14sp" />
+
+                <LinearLayout
+                android:id="@+id/rlRight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="end">
+<LinearLayout
+    android:layout_width="60dp"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <ImageButton
+        android:id="@+id/buttonMap"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginEnd="25dp"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        android:src="@drawable/placeholder" />
+
+    <TextView
+        android:id="@+id/posizione"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="15dp"
+        android:layout_marginTop="3dp"
+        android:text="@string/doveTesto"
+        android:textAlignment="viewStart"
+        android:textColor="@color/oroChiaro"
+        android:textSize="12sp" />
+
+</LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="80dp"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+                        <ImageButton
+                            android:id="@+id/buttonCondividi"
+                            android:layout_width="match_parent"
+                            android:layout_height="30dp"
+                            android:layout_marginEnd="25dp"
+                            android:background="@null"
+                            android:scaleType="fitCenter"
+                            android:src="@drawable/facebook" />
+
+                        <TextView
+                            android:id="@+id/condividi"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginEnd="15dp"
+                            android:layout_marginTop="3dp"
+                            android:text="@string/condividiTesto"
+                            android:textAlignment="center"
+                            android:textColor="@color/oroChiaro"
+                            android:textSize="12sp" />
+
+                    </LinearLayout>
+
+
+
+                </LinearLayout>
+
+                <me.biubiubiu.justifytext.library.JustifyTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/lore"
+                android:id="@+id/textView10"
+                android:textSize="14sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="0dp"
+                android:layout_marginTop="3dp" />
+            </LinearLayout>
+
+
+
+    </RelativeLayout>
+
+</FrameLayout>
+
+
+</ScrollView>
+
+
+</RelativeLayout>
